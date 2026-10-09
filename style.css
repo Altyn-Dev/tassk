@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: white;
+    color: black;
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 0 15px;
+}
+
+h1 {
+    font-size: 26px;
+}
+
+section {
+    border: 1px solid #cccccc;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+h2 {
+    font-size: 20px;
+    margin-top: 0;
+}
+
+input, select, button {
+    padding: 7px;
+    margin: 4px;
+}
+
+button {
+    cursor: pointer;
+}
+
+p {
+    overflow-wrap: anywhere;
+}
+
+#counter {
+    font-size: 24px;
+}
